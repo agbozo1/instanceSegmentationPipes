@@ -1,0 +1,2368 @@
+{
+    "IMG-20200430-WA0000.jpg98213": {
+        "filename": "IMG-20200430-WA0000.jpg",
+        "size": 98213,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        642,
+                        660,
+                        679,
+                        685,
+                        675,
+                        663,
+                        640,
+                        626,
+                        609,
+                        605,
+                        627
+                    ],
+                    "all_points_y": [
+                        625,
+                        623,
+                        641,
+                        663,
+                        681,
+                        692,
+                        695,
+                        689,
+                        675,
+                        653,
+                        634
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        642,
+                        660,
+                        679,
+                        685,
+                        675,
+                        663,
+                        640,
+                        626,
+                        609,
+                        605,
+                        627
+                    ],
+                    "all_points_y": [
+                        625,
+                        623,
+                        641,
+                        663,
+                        681,
+                        692,
+                        695,
+                        689,
+                        675,
+                        653,
+                        634
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        399,
+                        400,
+                        416,
+                        435,
+                        456,
+                        472,
+                        473,
+                        468,
+                        444,
+                        417
+                    ],
+                    "all_points_y": [
+                        342,
+                        368,
+                        388,
+                        392,
+                        388,
+                        369,
+                        346,
+                        329,
+                        315,
+                        318
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        184,
+                        193,
+                        207,
+                        240,
+                        269,
+                        271,
+                        249,
+                        217,
+                        201
+                    ],
+                    "all_points_y": [
+                        484,
+                        511,
+                        529,
+                        533,
+                        513,
+                        473,
+                        454,
+                        450,
+                        460
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        146,
+                        169,
+                        194,
+                        194,
+                        182,
+                        159,
+                        132,
+                        118,
+                        110,
+                        113,
+                        134,
+                        146,
+                        161
+                    ],
+                    "all_points_y": [
+                        222,
+                        221,
+                        246,
+                        274,
+                        297,
+                        308,
+                        303,
+                        286,
+                        262,
+                        241,
+                        224,
+                        219,
+                        219
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        73,
+                        76,
+                        93,
+                        125,
+                        148,
+                        157,
+                        154,
+                        128,
+                        108,
+                        82
+                    ],
+                    "all_points_y": [
+                        336,
+                        364,
+                        385,
+                        390,
+                        372,
+                        349,
+                        326,
+                        306,
+                        302,
+                        316
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        259,
+                        259,
+                        276,
+                        304,
+                        327,
+                        339,
+                        335,
+                        319,
+                        303,
+                        278
+                    ],
+                    "all_points_y": [
+                        280,
+                        313,
+                        335,
+                        340,
+                        329,
+                        306,
+                        283,
+                        264,
+                        254,
+                        260
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        310,
+                        315,
+                        309,
+                        300,
+                        280,
+                        261,
+                        244,
+                        232,
+                        229,
+                        237,
+                        252,
+                        270,
+                        294,
+                        304
+                    ],
+                    "all_points_y": [
+                        394,
+                        410,
+                        429,
+                        440,
+                        453,
+                        450,
+                        443,
+                        422,
+                        403,
+                        384,
+                        371,
+                        364,
+                        372,
+                        382
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        12,
+                        33,
+                        44,
+                        68,
+                        87,
+                        95,
+                        92,
+                        89,
+                        81,
+                        71,
+                        57,
+                        33,
+                        15,
+                        4,
+                        2
+                    ],
+                    "all_points_y": [
+                        399,
+                        388,
+                        384,
+                        391,
+                        410,
+                        429,
+                        441,
+                        456,
+                        463,
+                        472,
+                        473,
+                        470,
+                        462,
+                        434,
+                        423
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        316,
+                        316,
+                        329,
+                        346,
+                        365,
+                        384,
+                        393,
+                        393,
+                        384,
+                        365,
+                        348,
+                        337,
+                        325
+                    ],
+                    "all_points_y": [
+                        353,
+                        376,
+                        394,
+                        404,
+                        403,
+                        391,
+                        374,
+                        355,
+                        336,
+                        327,
+                        326,
+                        329,
+                        338
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        350,
+                        368,
+                        388,
+                        414,
+                        425,
+                        424,
+                        405,
+                        378,
+                        358,
+                        345,
+                        341
+                    ],
+                    "all_points_y": [
+                        251,
+                        237,
+                        234,
+                        248,
+                        267,
+                        294,
+                        316,
+                        324,
+                        315,
+                        299,
+                        275
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        448,
+                        432,
+                        433,
+                        443,
+                        463,
+                        495,
+                        509,
+                        513,
+                        515,
+                        511,
+                        496,
+                        487,
+                        465
+                    ],
+                    "all_points_y": [
+                        223,
+                        247,
+                        273,
+                        293,
+                        306,
+                        299,
+                        283,
+                        271,
+                        253,
+                        237,
+                        224,
+                        217,
+                        217
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        410,
+                        436,
+                        451,
+                        458,
+                        453,
+                        442,
+                        425,
+                        400,
+                        386,
+                        379,
+                        374,
+                        377,
+                        391,
+                        397
+                    ],
+                    "all_points_y": [
+                        142,
+                        145,
+                        161,
+                        182,
+                        204,
+                        221,
+                        231,
+                        229,
+                        220,
+                        210,
+                        191,
+                        168,
+                        152,
+                        146
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        302,
+                        284,
+                        287,
+                        302,
+                        325,
+                        350,
+                        368,
+                        367,
+                        356,
+                        339,
+                        319
+                    ],
+                    "all_points_y": [
+                        172,
+                        195,
+                        229,
+                        243,
+                        252,
+                        243,
+                        223,
+                        197,
+                        174,
+                        165,
+                        163
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        132,
+                        128,
+                        137,
+                        159,
+                        185,
+                        209,
+                        214,
+                        207,
+                        182,
+                        157,
+                        145
+                    ],
+                    "all_points_y": [
+                        398,
+                        424,
+                        446,
+                        460,
+                        462,
+                        444,
+                        417,
+                        394,
+                        381,
+                        378,
+                        385
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        80,
+                        93,
+                        99,
+                        87,
+                        79,
+                        56,
+                        36,
+                        19,
+                        18,
+                        28,
+                        38,
+                        49,
+                        54
+                    ],
+                    "all_points_y": [
+                        473,
+                        487,
+                        501,
+                        529,
+                        537,
+                        543,
+                        539,
+                        512,
+                        489,
+                        475,
+                        473,
+                        476,
+                        477
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        134,
+                        152,
+                        166,
+                        178,
+                        184,
+                        176,
+                        164,
+                        141,
+                        119,
+                        108,
+                        103,
+                        109
+                    ],
+                    "all_points_y": [
+                        450,
+                        458,
+                        463,
+                        473,
+                        493,
+                        510,
+                        525,
+                        530,
+                        524,
+                        506,
+                        485,
+                        467
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        160,
+                        155,
+                        160,
+                        169,
+                        191,
+                        216,
+                        228,
+                        236,
+                        231,
+                        226,
+                        223,
+                        192,
+                        178
+                    ],
+                    "all_points_y": [
+                        536,
+                        554,
+                        576,
+                        591,
+                        599,
+                        594,
+                        584,
+                        565,
+                        547,
+                        538,
+                        534,
+                        520,
+                        523
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        288,
+                        281,
+                        293,
+                        316,
+                        338,
+                        361,
+                        367,
+                        364,
+                        347,
+                        316
+                    ],
+                    "all_points_y": [
+                        456,
+                        486,
+                        512,
+                        524,
+                        527,
+                        505,
+                        483,
+                        464,
+                        449,
+                        440
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        83,
+                        75,
+                        83,
+                        97,
+                        113,
+                        129,
+                        153,
+                        155,
+                        149,
+                        134,
+                        109
+                    ],
+                    "all_points_y": [
+                        547,
+                        571,
+                        594,
+                        605,
+                        609,
+                        609,
+                        592,
+                        569,
+                        551,
+                        537,
+                        534
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        0,
+                        27,
+                        54,
+                        61,
+                        54,
+                        33,
+                        2
+                    ],
+                    "all_points_y": [
+                        551,
+                        545,
+                        564,
+                        593,
+                        613,
+                        626,
+                        627
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        253,
+                        252,
+                        270,
+                        283,
+                        309,
+                        323,
+                        332,
+                        330,
+                        324,
+                        305,
+                        292,
+                        278,
+                        263
+                    ],
+                    "all_points_y": [
+                        547,
+                        570,
+                        589,
+                        598,
+                        592,
+                        583,
+                        563,
+                        546,
+                        530,
+                        522,
+                        518,
+                        521,
+                        531
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        366,
+                        391,
+                        409,
+                        419,
+                        416,
+                        405,
+                        388,
+                        373,
+                        355,
+                        345,
+                        340,
+                        351,
+                        358
+                    ],
+                    "all_points_y": [
+                        508,
+                        506,
+                        518,
+                        541,
+                        558,
+                        572,
+                        581,
+                        582,
+                        574,
+                        559,
+                        537,
+                        522,
+                        513
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        432,
+                        414,
+                        417,
+                        440,
+                        466,
+                        485,
+                        496,
+                        498,
+                        483,
+                        453,
+                        444
+                    ],
+                    "all_points_y": [
+                        476,
+                        498,
+                        525,
+                        548,
+                        549,
+                        543,
+                        522,
+                        504,
+                        475,
+                        470,
+                        468
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        389,
+                        424,
+                        444,
+                        446,
+                        435,
+                        417,
+                        396,
+                        377,
+                        364,
+                        370
+                    ],
+                    "all_points_y": [
+                        396,
+                        397,
+                        421,
+                        445,
+                        464,
+                        475,
+                        477,
+                        467,
+                        441,
+                        413
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        489,
+                        519,
+                        531,
+                        529,
+                        511,
+                        482,
+                        462,
+                        449,
+                        461
+                    ],
+                    "all_points_y": [
+                        382,
+                        393,
+                        414,
+                        438,
+                        459,
+                        462,
+                        452,
+                        430,
+                        396
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        512,
+                        528,
+                        551,
+                        571,
+                        588,
+                        585,
+                        566,
+                        535,
+                        514,
+                        502
+                    ],
+                    "all_points_y": [
+                        514,
+                        497,
+                        495,
+                        500,
+                        525,
+                        551,
+                        574,
+                        579,
+                        567,
+                        541
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        543,
+                        562,
+                        584,
+                        603,
+                        614,
+                        613,
+                        607,
+                        590,
+                        576,
+                        562,
+                        543,
+                        532,
+                        535
+                    ],
+                    "all_points_y": [
+                        423,
+                        409,
+                        408,
+                        418,
+                        437,
+                        456,
+                        473,
+                        484,
+                        489,
+                        487,
+                        478,
+                        459,
+                        435
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        603,
+                        591,
+                        597,
+                        622,
+                        654,
+                        672,
+                        675,
+                        669,
+                        629
+                    ],
+                    "all_points_y": [
+                        486,
+                        512,
+                        538,
+                        558,
+                        551,
+                        531,
+                        507,
+                        487,
+                        472
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        600,
+                        626,
+                        645,
+                        646,
+                        635,
+                        619,
+                        600,
+                        575,
+                        560,
+                        567,
+                        588
+                    ],
+                    "all_points_y": [
+                        561,
+                        564,
+                        590,
+                        614,
+                        633,
+                        642,
+                        642,
+                        635,
+                        604,
+                        579,
+                        564
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        693,
+                        695,
+                        721,
+                        756,
+                        779,
+                        775,
+                        752,
+                        726,
+                        704
+                    ],
+                    "all_points_y": [
+                        615,
+                        646,
+                        670,
+                        669,
+                        656,
+                        591,
+                        577,
+                        582,
+                        596
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        291,
+                        300,
+                        319,
+                        352,
+                        371,
+                        380,
+                        373,
+                        355,
+                        341,
+                        322,
+                        301
+                    ],
+                    "all_points_y": [
+                        637,
+                        669,
+                        691,
+                        688,
+                        673,
+                        651,
+                        623,
+                        610,
+                        606,
+                        609,
+                        618
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        389,
+                        389,
+                        396,
+                        417,
+                        439,
+                        452,
+                        463,
+                        464,
+                        445,
+                        422,
+                        400
+                    ],
+                    "all_points_y": [
+                        602,
+                        626,
+                        645,
+                        656,
+                        654,
+                        646,
+                        629,
+                        607,
+                        585,
+                        581,
+                        590
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        184,
+                        190,
+                        208,
+                        235,
+                        255,
+                        264,
+                        257,
+                        246,
+                        216,
+                        196,
+                        185
+                    ],
+                    "all_points_y": [
+                        707,
+                        687,
+                        672,
+                        674,
+                        685,
+                        709,
+                        728,
+                        743,
+                        747,
+                        736,
+                        723
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        92,
+                        110,
+                        113,
+                        99,
+                        77,
+                        47,
+                        34,
+                        37,
+                        61
+                    ],
+                    "all_points_y": [
+                        623,
+                        640,
+                        667,
+                        690,
+                        698,
+                        691,
+                        663,
+                        642,
+                        619
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        98,
+                        94,
+                        98,
+                        114,
+                        131,
+                        155,
+                        170,
+                        174,
+                        162,
+                        140,
+                        113
+                    ],
+                    "all_points_y": [
+                        702,
+                        723,
+                        744,
+                        757,
+                        760,
+                        757,
+                        740,
+                        715,
+                        696,
+                        685,
+                        688
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        135,
+                        141,
+                        159,
+                        186,
+                        203,
+                        211,
+                        208,
+                        197,
+                        178,
+                        158,
+                        139
+                    ],
+                    "all_points_y": [
+                        630,
+                        653,
+                        669,
+                        671,
+                        657,
+                        639,
+                        620,
+                        605,
+                        597,
+                        597,
+                        615
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        294,
+                        276,
+                        274,
+                        283,
+                        300,
+                        325,
+                        340,
+                        352,
+                        348,
+                        325,
+                        313
+                    ],
+                    "all_points_y": [
+                        667,
+                        685,
+                        707,
+                        728,
+                        737,
+                        737,
+                        728,
+                        709,
+                        692,
+                        690,
+                        687
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        361,
+                        354,
+                        365,
+                        385,
+                        412,
+                        424,
+                        432,
+                        433,
+                        418,
+                        399,
+                        383
+                    ],
+                    "all_points_y": [
+                        684,
+                        712,
+                        737,
+                        746,
+                        747,
+                        735,
+                        718,
+                        698,
+                        679,
+                        672,
+                        671
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        472,
+                        473,
+                        493,
+                        521,
+                        538,
+                        543,
+                        548,
+                        545,
+                        534,
+                        515,
+                        493,
+                        479,
+                        471
+                    ],
+                    "all_points_y": [
+                        606,
+                        626,
+                        646,
+                        645,
+                        635,
+                        626,
+                        611,
+                        594,
+                        581,
+                        571,
+                        575,
+                        584,
+                        600
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        453,
+                        439,
+                        440,
+                        450,
+                        467,
+                        494,
+                        509,
+                        515,
+                        514,
+                        508,
+                        488,
+                        465
+                    ],
+                    "all_points_y": [
+                        659,
+                        680,
+                        704,
+                        719,
+                        726,
+                        727,
+                        711,
+                        698,
+                        682,
+                        664,
+                        653,
+                        652
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        227,
+                        218,
+                        220,
+                        237,
+                        255,
+                        276,
+                        289,
+                        296,
+                        285,
+                        269,
+                        239
+                    ],
+                    "all_points_y": [
+                        600,
+                        618,
+                        642,
+                        659,
+                        666,
+                        658,
+                        644,
+                        620,
+                        600,
+                        589,
+                        590
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        688,
+                        708,
+                        732,
+                        745,
+                        748,
+                        735,
+                        711,
+                        695,
+                        679,
+                        675,
+                        669
+                    ],
+                    "all_points_y": [
+                        464,
+                        459,
+                        467,
+                        483,
+                        503,
+                        526,
+                        535,
+                        531,
+                        529,
+                        509,
+                        485
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "IMG-20200430-WA0001.jpg105636": {
+        "filename": "IMG-20200430-WA0001.jpg",
+        "size": 105636,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        429,
+                        411,
+                        413,
+                        421,
+                        432,
+                        464,
+                        473,
+                        478,
+                        478,
+                        467,
+                        455
+                    ],
+                    "all_points_y": [
+                        305,
+                        325,
+                        352,
+                        362,
+                        373,
+                        367,
+                        352,
+                        341,
+                        325,
+                        312,
+                        303
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        341,
+                        353,
+                        365,
+                        374,
+                        364,
+                        353,
+                        331,
+                        318,
+                        329,
+                        336
+                    ],
+                    "all_points_y": [
+                        606,
+                        607,
+                        619,
+                        641,
+                        656,
+                        657,
+                        657,
+                        641,
+                        629,
+                        622
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        343,
+                        334,
+                        337,
+                        352,
+                        364,
+                        386,
+                        395,
+                        396,
+                        386,
+                        358
+                    ],
+                    "all_points_y": [
+                        551,
+                        568,
+                        591,
+                        599,
+                        602,
+                        594,
+                        582,
+                        564,
+                        545,
+                        541
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        399,
+                        410,
+                        429,
+                        445,
+                        451,
+                        442,
+                        428,
+                        421,
+                        419,
+                        411
+                    ],
+                    "all_points_y": [
+                        535,
+                        546,
+                        548,
+                        541,
+                        523,
+                        520,
+                        513,
+                        499,
+                        495,
+                        499
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        379,
+                        372,
+                        350,
+                        323,
+                        313,
+                        319,
+                        345,
+                        358,
+                        369,
+                        378
+                    ],
+                    "all_points_y": [
+                        441,
+                        466,
+                        476,
+                        465,
+                        444,
+                        421,
+                        411,
+                        411,
+                        419,
+                        435
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        128,
+                        137,
+                        150,
+                        168,
+                        175,
+                        182,
+                        181,
+                        175,
+                        167,
+                        151,
+                        141,
+                        127,
+                        121,
+                        121
+                    ],
+                    "all_points_y": [
+                        678,
+                        673,
+                        669,
+                        675,
+                        682,
+                        693,
+                        709,
+                        719,
+                        724,
+                        730,
+                        728,
+                        716,
+                        706,
+                        690
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        53,
+                        52,
+                        65,
+                        80,
+                        96,
+                        108,
+                        114,
+                        110,
+                        106,
+                        94,
+                        82,
+                        69,
+                        53
+                    ],
+                    "all_points_y": [
+                        675,
+                        693,
+                        709,
+                        713,
+                        709,
+                        700,
+                        692,
+                        678,
+                        668,
+                        660,
+                        655,
+                        654,
+                        667
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        372,
+                        371,
+                        378,
+                        392,
+                        407,
+                        419,
+                        427,
+                        430,
+                        429,
+                        426,
+                        423,
+                        413,
+                        397,
+                        388
+                    ],
+                    "all_points_y": [
+                        665,
+                        681,
+                        697,
+                        705,
+                        706,
+                        698,
+                        692,
+                        681,
+                        674,
+                        665,
+                        656,
+                        656,
+                        657,
+                        652
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        415,
+                        423,
+                        437,
+                        453,
+                        467,
+                        474,
+                        472,
+                        459,
+                        438,
+                        421
+                    ],
+                    "all_points_y": [
+                        807,
+                        825,
+                        833,
+                        836,
+                        829,
+                        813,
+                        794,
+                        782,
+                        780,
+                        789
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        200,
+                        219,
+                        231,
+                        243,
+                        250,
+                        242,
+                        227,
+                        210,
+                        194,
+                        190,
+                        193
+                    ],
+                    "all_points_y": [
+                        668,
+                        664,
+                        665,
+                        677,
+                        694,
+                        714,
+                        718,
+                        719,
+                        709,
+                        695,
+                        679
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        281,
+                        302,
+                        319,
+                        332,
+                        331,
+                        323,
+                        307,
+                        293,
+                        283,
+                        274,
+                        275
+                    ],
+                    "all_points_y": [
+                        684,
+                        675,
+                        680,
+                        697,
+                        716,
+                        727,
+                        734,
+                        732,
+                        725,
+                        709,
+                        696
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        287,
+                        283,
+                        264,
+                        242,
+                        233,
+                        251,
+                        262,
+                        270,
+                        277
+                    ],
+                    "all_points_y": [
+                        730,
+                        740,
+                        746,
+                        740,
+                        719,
+                        697,
+                        694,
+                        695,
+                        714
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        726,
+                        728,
+                        716,
+                        703,
+                        680,
+                        664,
+                        666,
+                        680,
+                        700,
+                        715
+                    ],
+                    "all_points_y": [
+                        598,
+                        618,
+                        635,
+                        643,
+                        640,
+                        621,
+                        601,
+                        586,
+                        580,
+                        584
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        526,
+                        513,
+                        512,
+                        521,
+                        544,
+                        562,
+                        573,
+                        575,
+                        569,
+                        550,
+                        537
+                    ],
+                    "all_points_y": [
+                        577,
+                        594,
+                        616,
+                        630,
+                        638,
+                        629,
+                        618,
+                        604,
+                        586,
+                        575,
+                        575
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        315,
+                        335,
+                        338,
+                        321,
+                        308,
+                        291,
+                        276,
+                        272,
+                        278,
+                        290,
+                        296
+                    ],
+                    "all_points_y": [
+                        511,
+                        527,
+                        549,
+                        569,
+                        572,
+                        571,
+                        557,
+                        540,
+                        524,
+                        516,
+                        511
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        204,
+                        208,
+                        221,
+                        245,
+                        261,
+                        266,
+                        268,
+                        257,
+                        241,
+                        221,
+                        210
+                    ],
+                    "all_points_y": [
+                        526,
+                        549,
+                        559,
+                        562,
+                        551,
+                        538,
+                        526,
+                        510,
+                        502,
+                        504,
+                        514
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        134,
+                        133,
+                        148,
+                        167,
+                        189,
+                        199,
+                        190,
+                        175,
+                        150
+                    ],
+                    "all_points_y": [
+                        500,
+                        523,
+                        541,
+                        548,
+                        538,
+                        519,
+                        496,
+                        484,
+                        485
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        410,
+                        429,
+                        439,
+                        432,
+                        428,
+                        412,
+                        399,
+                        385,
+                        376,
+                        378,
+                        397
+                    ],
+                    "all_points_y": [
+                        596,
+                        603,
+                        627,
+                        642,
+                        649,
+                        654,
+                        652,
+                        648,
+                        633,
+                        608,
+                        598
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        446,
+                        459,
+                        482,
+                        501,
+                        502,
+                        493,
+                        480,
+                        467,
+                        451,
+                        442,
+                        438
+                    ],
+                    "all_points_y": [
+                        579,
+                        567,
+                        565,
+                        579,
+                        602,
+                        619,
+                        625,
+                        625,
+                        617,
+                        606,
+                        590
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        359,
+                        358,
+                        366,
+                        384,
+                        403,
+                        419,
+                        425,
+                        413,
+                        392,
+                        372
+                    ],
+                    "all_points_y": [
+                        374,
+                        393,
+                        413,
+                        424,
+                        420,
+                        409,
+                        391,
+                        364,
+                        356,
+                        361
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        470,
+                        481,
+                        487,
+                        483,
+                        471,
+                        451,
+                        432,
+                        421,
+                        422,
+                        433,
+                        452
+                    ],
+                    "all_points_y": [
+                        516,
+                        507,
+                        490,
+                        473,
+                        461,
+                        456,
+                        467,
+                        478,
+                        495,
+                        513,
+                        522
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        123,
+                        139,
+                        163,
+                        170,
+                        166,
+                        153,
+                        132,
+                        112,
+                        112
+                    ],
+                    "all_points_y": [
+                        600,
+                        594,
+                        600,
+                        622,
+                        638,
+                        649,
+                        651,
+                        637,
+                        610
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        61,
+                        56,
+                        66,
+                        89,
+                        117,
+                        123,
+                        118,
+                        101,
+                        82
+                    ],
+                    "all_points_y": [
+                        491,
+                        516,
+                        536,
+                        549,
+                        540,
+                        516,
+                        492,
+                        486,
+                        480
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        251,
+                        269,
+                        275,
+                        269,
+                        253,
+                        242,
+                        229,
+                        212,
+                        207,
+                        208,
+                        221,
+                        237
+                    ],
+                    "all_points_y": [
+                        369,
+                        358,
+                        336,
+                        318,
+                        307,
+                        304,
+                        305,
+                        314,
+                        334,
+                        351,
+                        366,
+                        370
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        545,
+                        556,
+                        562,
+                        557,
+                        543,
+                        521,
+                        510,
+                        504,
+                        517,
+                        526,
+                        537
+                    ],
+                    "all_points_y": [
+                        657,
+                        662,
+                        679,
+                        697,
+                        705,
+                        706,
+                        694,
+                        668,
+                        669,
+                        668,
+                        662
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        224,
+                        234,
+                        238,
+                        233,
+                        216,
+                        201,
+                        184,
+                        178,
+                        183,
+                        198
+                    ],
+                    "all_points_y": [
+                        590,
+                        600,
+                        619,
+                        633,
+                        644,
+                        640,
+                        631,
+                        615,
+                        601,
+                        587
+                    ]
+                },
+                "region_attributes": {
+                    "Pipes": "circle"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}
